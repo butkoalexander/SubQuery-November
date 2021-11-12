@@ -1,0 +1,19 @@
+{
+  "data": {
+    "accounts": {
+      "nodes": [
+        {
+          "id": "1mndd9E8kssCxXDacCbKw3iwFQwdABiFrE8fVRKS5SeS4E4",
+          "myToAddress": {
+            "nodes": [
+              {
+                "id": "29258-7",
+                "amount": "40998150000000000"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}
